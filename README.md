@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @UniqueUnderDog
-- 👀 I’m interested in zero-knowledge proof.
 - 🌱 I’m currently studying at school of software&microelectronics at peking university. 
-- 💞️ I’m looking for an internship position based in beijing(or remote)
 - 📫 Please contact me at DC1048635875@outlook.com.
 
 <!---
